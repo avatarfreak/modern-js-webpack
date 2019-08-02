@@ -63,11 +63,12 @@ Project
 #### Installing:
 
 - clone this project
-  `$ git clone "https://github.com/avatarfreak/modern_js_webpack.git"`  
-  `$ cd modern_js_webpack`
-  `$ npm install`
-  `$ npm run build`
-  `$ npm run start`
+
+  - `$ git clone "https://github.com/avatarfreak/modern_js_webpack.git"`
+  - `$ cd modern_js_webpack`
+  - `$ npm install`
+  - `$ npm run build`
+  - `$ npm run start`
 
 ---
 
