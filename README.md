@@ -6,7 +6,7 @@ A basic setup with hot-reload and for rapid easy web application development.
 
 #### Disclosure
 
-I have built a simple web application solely for demo purpose using Sass, ES6 and HTML. You can fork it and modified it according to your needs.
+I have built a simple web application solely for demo purposes using Sass, ES6 and HTML. I just want to show how webpack can comiple everthing to single js file. `<script>` tag is automatically injected to index.html. You can fork it and modified it according to your needs.
 
 ---
 
