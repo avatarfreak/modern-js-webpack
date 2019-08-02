@@ -64,7 +64,7 @@ Project
 
 - clone this project
 
-  - `$ git clone "https://github.com/avatarfreak/modern_js_webpack.git"`
+  - `$ git clone "https://github.com/avatarfreak/modern-js-webpack.git"`
   - `$ cd modern_js_webpack`
   - `$ npm install`
   - `$ npm run build`
@@ -98,7 +98,7 @@ Failed at the node-sass@4.5.0 postinstall script
 
 Deploy your code to **Github Pages**
 
-[https://avatarfreak.github.io/modern_js_webpack/](https://avatarfreak.github.io/modern_js_webpack)
+[https://avatarfreak.github.io/modern-js-webpack/](https://avatarfreak.github.io/modern-js-webpack/)
 
 ```
 npm run deploy
